@@ -5,4 +5,5 @@
 example.txt - текстовый фаил для тестирование рабы скрипта
 
 **run script**
-`$ python3 pprint_json.py example.txt`
+
+`$ python3 lang_frequency.py example.txt`
